@@ -1,0 +1,4 @@
+use geography;
+   select now();
+
+
